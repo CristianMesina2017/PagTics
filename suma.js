@@ -4,4 +4,6 @@ function = a + b
 
 function = a - b
 
-funtion = a + g
+funcion = a + g
+
+function = a + r
