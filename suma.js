@@ -4,4 +4,4 @@ function = a + b
 
 function = a - b
 
-funtion = a + g
+funtion = a + h
