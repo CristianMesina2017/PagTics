@@ -5,3 +5,5 @@ function = a - b
 function = a - c
 
 function = a + t
+
+function = a + y
